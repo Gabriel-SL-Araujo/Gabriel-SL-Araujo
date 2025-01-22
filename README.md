@@ -1,4 +1,4 @@
-## Hi there 👋
+## Yo 👋
 
 <div>
   <a href= "https://github.com/Gabriel-SL-Araujo">
