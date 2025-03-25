@@ -17,3 +17,10 @@
   <img align="center" alt="Gabriel-SL-Araujo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Gabriel-SL-Araujo-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
 </div>
+
+<h3 align="left">Let's brainstorming : </h3>
+
+[![E-mail](https://img.shields.io/badge/Email_(Pessoal)-539bf5?style=for-the-badge&logo=gmail&logoColor=white)](gabrielsla2022@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-539bf5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ara%C3%BAjo-345131289/)
+
+
