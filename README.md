@@ -1,26 +1,50 @@
 ## Yo 👋
 
-<h3 align="left">GitHub stats:</h3>
-
+### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-SL-Araujo&hide_title=false&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark_dimmed&locale=en&hide_border=true" height="150" alt="stats graph" />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-SL-Araujo&locale=en&hhide_title=false&layout=compact&include_all_commits=true&count_private=true&card_width=320&langs_count=6&theme=github_dark_dimmed&hide_border=true%22%20height=%22125%22%20alt=%22languages%20graph" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-SL-Araujo&show_icons=true&count_private=true&theme=github_dark_dimmed&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-SL-Araujo&theme=github-dark-blue&hide_border=true" height="160" alt="GitHub Streak" />
 </div>
 
-<h3 align="left">Programming Languages used by me:</h3>
+---
 
+### 🚀 Languages & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,linux,git,github,vscode&theme=dark" alt="Tech Stack" />
+</div>
+
+---
+
+### 🔥 Top Languages
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-SL-Araujo&layout=compact&langs_count=6&theme=github_dark_dimmed&hide_border=true" height="150" />
+</div>
+
+---
+
+### 🛠️ Featured Projects
+- 🚧 **[Project Name](https://github.com/your-repository)** - Short description of the project.
+- 🚧 **[Project Name](https://github.com/your-repository)** - Another cool project you worked on.
+
+---
+
+### 📫 Connect with Me
 <div align="left">
-<div style="display: inline_block"><br>
-  <img align="center" alt="Gabriel-SL-Araujo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Gabriel-SL-Araujo-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="Gabriel-SL-Araujo-java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <a href="mailto:gabrielsla2022@gmail.com">
+    <img src="https://img.shields.io/badge/Email-539bf5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.linkedin.com/in/gabriel-ara%C3%BAjo-345131289/">
+    <img src="https://img.shields.io/badge/LinkedIn-539bf5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
-<h3 align="left">Let's brainstorming : </h3>
+---
 
-[![E-mail](https://img.shields.io/badge/Email_(Pessoal)-539bf5?style=for-the-badge&logo=gmail&logoColor=white)](gabrielsla2022@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-539bf5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-ara%C3%BAjo-345131289/)
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gabriel-SL-Araujo&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+</div>
+
+---
 
 
