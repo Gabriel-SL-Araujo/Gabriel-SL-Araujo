@@ -1,4 +1,5 @@
-## Yo 👋
+## Yo! 👋 Welcome to my GitHub Profile
+---
 
 ### 📊 GitHub Stats
 <div align="center">
@@ -10,7 +11,7 @@
 
 ### 🚀 Languages & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,html,css,js,linux,git,github,vscode&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,sql,github,vscode,git,excel&theme=dark" alt="Tech Stack" />
 </div>
 
 ---
@@ -23,8 +24,7 @@
 ---
 
 ### 🛠️ Featured Projects
-- 🚧 **[Project Name](https://github.com/your-repository)** - Short description of the project.
-- 🚧 **[Project Name](https://github.com/your-repository)** - Another cool project you worked on.
+
 
 ---
 
@@ -47,4 +47,5 @@
 
 ---
 
-
+### 🎵 What I'm Listening To
+[![Spotify](https://spotify-github-profile.vercel.app/api/view?uid=YOUR_SPOTIFY_ID&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
