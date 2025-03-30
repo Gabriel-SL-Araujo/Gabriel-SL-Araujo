@@ -11,9 +11,8 @@
 
 ### 🚀 Languages & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,sql,github,vscode,git,excel&theme=dark" alt="Tech Stack" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Badge" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Badge" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,sql&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,git,excel&theme=dark" alt="Tools" />
 </div>
 
 ---
