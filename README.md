@@ -12,6 +12,8 @@
 ### 🚀 Languages & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,java,sql,github,vscode,git,excel&theme=dark" alt="Tech Stack" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQL Badge" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel Badge" />
 </div>
 
 ---
@@ -28,7 +30,7 @@
 
 ---
 
-### 📫 Connect with Me
+### 👯️ Connect with Me
 <div align="left">
   <a href="mailto:gabrielsla2022@gmail.com">
     <img src="https://img.shields.io/badge/Email-539bf5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
@@ -44,5 +46,3 @@
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Gabriel-SL-Araujo&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
-
----
