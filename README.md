@@ -11,7 +11,9 @@
 
 ### 🚀 Languages & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,java,sql,github,vscode,git,excel&theme=dark" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,sql&theme=dark" alt="Programming Languages" />
+  <img src="https://skillicons.dev/icons?i=github,vscode,git,excel&theme=dark" alt="Tools" />
+  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" alt="Excel Badge" />
 </div>
 
 ---
@@ -28,7 +30,7 @@
 
 ---
 
-### 📫 Connect with Me
+### 👯️ Connect with Me
 <div align="left">
   <a href="mailto:gabrielsla2022@gmail.com">
     <img src="https://img.shields.io/badge/Email-539bf5?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
