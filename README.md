@@ -1,9 +1,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2C3E50&height=120&section=header"/>
 
-<h1 align="center">Yo 👋</h1>
+<h1 align="center">Yo, Welcome! 👋</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=2C3E50&size=22&center=true&vCenter=true&width=500&lines=Desenvolvedor+Java;Entusiasta+de+Machine+Learning;Estudante+de+Ciência+da+Computação;" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Gabriel-SL-Araujo&style=flat&color=purple" alt="Profile views" />
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
@@ -38,14 +42,16 @@
 
 ### 🚀 Technologies
 
-
 <img src="https://skillicons.dev/icons?i=python,c,java,sql" alt="Tecnologias" />
 
 ---
 
 ### 🧰 Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,intellij,vscode,raspberrypi,overleaf,windows,arduino,pycharm" alt="Ferramentas" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,intellij,vscode,raspberrypi,overleaf,windows" alt="Ferramentas" />
+<br/>
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Arduino-Dark.svg" width="40" alt="Arduino" />
+<img src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/PyCharm-Dark.svg" width="40" alt="PyCharm" />
 
 ---
 
