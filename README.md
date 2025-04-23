@@ -1,4 +1,9 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8116C4&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8116C4&height=120&section=header"/>
+
+<!-- GIF no canto superior direito -->
+<p align="right">
+  <img src="https://gifs.alphacoders.com/gifs/view/61077" width="100" alt="GIF do Joker" />
+</p>
 
 <h1 align="center">Yo 👋</h1>
 
@@ -10,11 +15,11 @@
 
 ### 🧠 Sobre mim
 
-- 🎓 Estudante de Ciência da Computação
-- 💻 Foco em desenvolvimento **Java**
-- 📚 Estudando também: **Python, C, Java, SQL e Estruturas de Dados**
-- 🧪 Explorando o mundo dos **testes automatizados** e boas práticas em software
-- - 🧪 Explorando o mundo de **Machine Learning** e Data Science
+- 🎓 Estudante de Ciência da Computação  
+- 💻 Foco em desenvolvimento **Java**  
+- 📚 Estudando também: **Python, C, Java, SQL e Estruturas de Dados**  
+- 🧪 Explorando o mundo dos **testes automatizados** e boas práticas em software  
+- 🧪 Explorando o mundo de **Machine Learning** e Data Science  
 
 ---
 
@@ -61,24 +66,13 @@
 
 ### 🎯 Foco Atual
 
-- 📘 Lendo o livro *Data Science do Zero* de Joel Grus
-- 📘 Lendo o livro *Mãos à Obra: Aprendizado de Máquina* de Aurélion Géron
-- 📘 Lendo o livro *Foundations of Software Testing ISTBQ Certificated* de Dorothy Graham
-- 🧩 Aprimorando resolução de problemas com algoritmos e estruturas de dados
-- 🤖 Estudando Machine Learning e IA
-- 🧪 Explorando práticas de testes automatizados
+- 📘 Lendo o livro *Data Science do Zero* de Joel Grus  
+- 📘 Lendo o livro *Mãos à Obra: Aprendizado de Máquina* de Aurélion Géron  
+- 📘 Lendo o livro *Foundations of Software Testing ISTBQ Certificated* de Dorothy Graham  
+- 🧩 Aprimorando resolução de problemas com algoritmos e estruturas de dados  
+- 🤖 Estudando Machine Learning e IA  
+- 🧪 Explorando práticas de testes automatizados  
 
 ---
 
-### 🏃‍♂️ Joker correndo (voltar ao topo)
-
-<p align="center">
-  <a href="#top">
-    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHRlYW13N3l0ajF5Ym8yZ3E3OWgxOTBrcWFpbjdqNHRzdHZ3MzhlciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/a7ZpI5pKpqX9G/giphy.gif" width="120" alt="Joker Persona run"/>
-  </a>
-</p>
-
----
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8116C4&height=120&section=footer"/>
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=8116C4&height=120&section=footer"/>
