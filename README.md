@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Gabriel-SL-Araujo&style=flat&color=purple" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=Gabriel-SL-Araujo&style=flat&color=2C3E50" alt="Profile views" />
 </p>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
