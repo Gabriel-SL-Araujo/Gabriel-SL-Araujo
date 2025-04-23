@@ -1,6 +1,15 @@
 ## Yo! 👋 Welcome to my GitHub Profile
 ---
 
+> "Code. Learn. Repeat. 🚀"
+
+🎓 Olá! Meu nome é Gabriel Araújo, sou estudante de Ciência da Computação e apaixonado por tecnologia, programação e aprendizado constante.  
+Atualmente estou focado em **Java**, **Python** e **Machine Learning**, sempre buscando evoluir como desenvolvedor e cientista de dados.
+
+![Visitors](https://komarev.com/ghpvc/?username=Gabriel-SL-Araujo&color=blue&style=flat)
+
+---
+
 ### 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-SL-Araujo&show_icons=true&count_private=true&theme=github_dark_dimmed&hide_border=true" height="160" alt="GitHub Stats" />
@@ -26,7 +35,9 @@
 ---
 
 ### 🛠️ Featured Projects
-
+- 🔧 [Sistema de Controle de Tarefas](https://github.com/Gabriel-SL-Araujo/task-manager): Aplicação em Java com interface gráfica para gerenciamento de tarefas pessoais.
+- 📊 [Análise de Dados com Python](https://github.com/Gabriel-SL-Araujo/data-analysis-python): Projetos de visualização de dados e análise exploratória com pandas e matplotlib.
+- 💡 [Mini Projetos Python](https://github.com/Gabriel-SL-Araujo/mini-python-projects): Scripts simples para aprendizado e desafios pessoais.
 
 ---
 
