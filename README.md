@@ -23,28 +23,27 @@
 
 ---
 
-### 📫 Contato
+### 📫 Contact
 
 <p align="left">
   <a href="mailto:gabrielsla2022@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-FF0000?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="35" alt="Gmail" style="margin-right: 10px;" />
   </a>
   <a href="https://www.linkedin.com/in/gabriel-ara%C3%BAjo-345131289" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-FF0000?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn" />
   </a>
 </p>
 
-
 ---
 
-### 🚀 Tecnologias
+### 🚀 Technologies
 
 
 <img src="https://skillicons.dev/icons?i=python,c,java,sql" alt="Tecnologias" />
 
 ---
 
-### 🧰 Ferramentas
+### 🧰 Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,intellij,vscode,raspberrypi,overleaf,windows,arduino,pycharm" alt="Ferramentas" />
 
@@ -59,7 +58,7 @@
 
 ---
 
-### 🎯 Foco Atual
+### 🎯 Main Goals
 
 - 📘 Lendo o livro *Data Science do Zero* de Joel Grus  
 - 📘 Lendo o livro *Mãos à Obra: Aprendizado de Máquina* de Aurélion Géron  
