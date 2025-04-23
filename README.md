@@ -2,7 +2,7 @@
 
 <!-- GIF no canto superior direito -->
 <p align="right">
-  <img src="https://gifs.alphacoders.com/gifs/view/61077" width="100" alt="GIF do Joker" />
+  <img src="https://giphy.com/gifs/persona-5-joker-Qdy17pAwLU9io" width="100" alt="GIF do Joker" />
 </p>
 
 <h1 align="center">Yo 👋</h1>
