@@ -3,7 +3,7 @@
 <h1 align="center">Yo 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=22&center=true&vCenter=true&width=500&lines=Desenvolvedor+Java;Entusiasta+de+Machine+Learning\n+Data+Science;Estudante+de+Ciência+da+Computação;" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=22&center=true&vCenter=true&width=500&lines=Desenvolvedor+Java;Entusiasta+de+Machine+Learning;Estudante+de+Ciência+da+Computação;" />
 </p>
 
 ---
