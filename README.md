@@ -15,7 +15,7 @@
     <ul>
       <li>🎓 Estudante de Ciência da Computação</li>
       <li>💻 Foco em desenvolvimento <strong>Java</strong></li>
-      <li>📚 Estudando também: <strong>Python, C, Java, SQL e Estruturas de Dados</strong></li>
+      <li>📚 Estudando também: <strong>Python, C, Java, SQL e Estruturas de Dados</strong></li> <img src="https://giffiles.alphacoders.com/610/61077.gif" width="250" alt="GIF do Joker" />
       <li>🧪 Explorando o mundo dos <strong>testes automatizados</strong> e boas práticas em software</li>
       <li>🧪 Explorando o mundo de <strong>Machine Learning</strong> e Data Science</li>
     </ul>
