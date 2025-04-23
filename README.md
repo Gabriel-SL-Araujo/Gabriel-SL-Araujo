@@ -3,15 +3,15 @@
 <h1 align="center">Yo 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=22&center=true&vCenter=true&width=500&lines=Desenvolvedor+Java;Entusiasta+de+Machine+Learning+&+Data+Science;Estudante+de+Ciência+da+Computação;" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=22&center=true&vCenter=true&width=500&lines=Desenvolvedor+Java;Entusiasta+de+Machine+Learning\n+Data+Science;Estudante+de+Ciência+da+Computação;" />
 </p>
 
 ---
 
 ### 🧠 Sobre mim
 
-<div style="display: flex; align-items: center; justify-content: space-between;">
-  <div>
+<div style="display: flex; align-items: center; justify-content: flex-start;">
+  <div style="margin-right: 20px;">
     <ul>
       <li>🎓 Estudante de Ciência da Computação</li>
       <li>💻 Foco em desenvolvimento <strong>Java</strong></li>
