@@ -1,8 +1,7 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#00FFFF&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#FF0000&height=120&section=header"/>
 
-<!-- GIF no canto superior direito -->
 <p align="right">
-  <img src="https://giphy.com/gifs/persona-5-joker-Qdy17pAwLU9io" width="100" alt="GIF do Joker" />
+  <img src="https://giffiles.alphacoders.com/610/61077.gif" width="100" alt="GIF do Joker" />
 </p>
 
 <h1 align="center">Yo 👋</h1>
@@ -43,7 +42,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -75,4 +74,4 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#00FFFF&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#FF0000&height=120&section=footer"/>
