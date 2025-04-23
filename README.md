@@ -1,7 +1,7 @@
 ## Yo! 👋 Welcome to my GitHub Profile
 ---
 
-> "Code. Learn. Repeat. 🚀"
+> "Learn. Code. Repeat. 🚀"
 
 🎓 Olá! Meu nome é Gabriel Araújo, sou estudante de Ciência da Computação e apaixonado por tecnologia, programação e aprendizado constante.  
 Atualmente estou focado em **Java**, **Python** e **Machine Learning**, sempre buscando evoluir como desenvolvedor e cientista de dados.
@@ -12,8 +12,8 @@ Atualmente estou focado em **Java**, **Python** e **Machine Learning**, sempre b
 
 ### 📊 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-SL-Araujo&show_icons=true&count_private=true&theme=github_dark_dimmed&hide_border=true" height="160" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-SL-Araujo&theme=github-dark-blue&hide_border=true" height="160" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Gabriel-SL-Araujo&show_icons=true&count_private=true&theme=radical&hide_border=true" height="160" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-SL-Araujo&theme=radical&hide_border=true" height="160" alt="GitHub Streak" />
 </div>
 
 ---
@@ -21,15 +21,13 @@ Atualmente estou focado em **Java**, **Python** e **Machine Learning**, sempre b
 ### 🚀 Languages & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,c,java,sql&theme=dark" alt="Programming Languages" />
-  <img src="https://skillicons.dev/icons?i=github,vscode,git,excel&theme=dark" alt="Tools" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?logo=microsoft-excel&logoColor=white&style=for-the-badge" alt="Excel Badge" />
 </div>
 
 ---
 
 ### 🔥 Top Languages
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-SL-Araujo&layout=compact&langs_count=6&theme=github_dark_dimmed&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-SL-Araujo&layout=compact&langs_count=6&theme=radical&hide_border=true" height="150" />
 </div>
 
 ---
@@ -55,5 +53,5 @@ Atualmente estou focado em **Java**, **Python** e **Machine Learning**, sempre b
 
 ### 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Gabriel-SL-Araujo&theme=darkhub&no-frame=true&margin-w=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Gabriel-SL-Araujo&theme=radical&no-frame=true&margin-w=15" alt="GitHub Trophies" />
 </div>
