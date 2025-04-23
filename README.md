@@ -38,15 +38,14 @@
 
 ### 🚀 Tecnologias
 
-<!-- Skillicons for programming languages -->
+
 <img src="https://skillicons.dev/icons?i=python,c,java,sql" alt="Tecnologias" />
 
 ---
 
 ### 🧰 Ferramentas
 
-<!-- Skillicons for tools -->
-<img src="https://skillicons.dev/icons?i=git,github,figma,intellij,vscode,raspberrypi,overleaf,windows" alt="Ferramentas" />
+<img src="https://skillicons.dev/icons?i=git,github,figma,intellij,vscode,raspberrypi,overleaf,windows,arduino,pycharm" alt="Ferramentas" />
 
 ---
 
