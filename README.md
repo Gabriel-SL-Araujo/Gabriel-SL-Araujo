@@ -1,9 +1,9 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8116C4&height=120&section=header"/>
 
-<h1 align="center">Olá! Sou Gabriel 👋</h1>
+<h1 align="center">Yo 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8116C4&size=22&center=true&vCenter=true&width=500&lines=Desenvolvedor+Java;Entusiasta+de+Machine+Learning;Estudante+de+Ciência+da+Computação;Apaixonado+por+Tecnologia+e+Desafios" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=8116C4&size=22&center=true&vCenter=true&width=500&lines=Desenvolvedor+Java;Entusiasta+de+Machine+Learning+&+Data+Science;Estudante+de+Ciência+da+Computação;" />
 </p>
 
 ---
@@ -11,20 +11,20 @@
 ### 🧠 Sobre mim
 
 - 🎓 Estudante de Ciência da Computação
-- 💻 Foco em desenvolvimento **Java** e **SQL**
-- 📚 Estudando também: **Python, C, Estruturas de Dados, Machine Learning**
+- 💻 Foco em desenvolvimento **Java**
+- 📚 Estudando também: **Python, C, Java, SQL e Estruturas de Dados**
 - 🧪 Explorando o mundo dos **testes automatizados** e boas práticas em software
-- ⚔️ Inspirado por Ayanokoji e a filosofia da White Room
+- - 🧪 Explorando o mundo de **Machine Learning** e Data Science
 
 ---
 
 ### 📫 Contato
 
 <p align="left">
-  <a href="mailto:gabriel.seuemail@example.com" target="_blank">
+  <a href="mailto:gabrielsla2022@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Email-8116C4?style=flat-square&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/gabriel-seulinkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/gabriel-ara%C3%BAjo-345131289" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-8116C4?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -61,7 +61,9 @@
 
 ### 🎯 Foco Atual
 
-- 📘 Finalizando o livro *Data Science do Zero*
+- 📘 Lendo o livro *Data Science do Zero* de Joel Grus
+- 📘 Lendo o livro *Mãos à Obra: Aprendizado de Máquina* de Aurélion Géron
+- 📘 Lendo o livro *Foundations of Software Testing ISTBQ Certificated* de Dorothy Graham
 - 🧩 Aprimorando resolução de problemas com algoritmos e estruturas de dados
 - 🤖 Estudando Machine Learning e IA
 - 🧪 Explorando práticas de testes automatizados
