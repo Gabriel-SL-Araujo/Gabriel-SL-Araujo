@@ -1,18 +1,19 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#FF0000&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-<p align="right">
-  <img src="https://giffiles.alphacoders.com/610/61077.gif" width="100" alt="GIF do Joker" />
-</p>
-
+<!-- GIF ao lado direito dentro de 'Sobre mim' -->
 <h1 align="center">Yo 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=8116C4&size=22&center=true&vCenter=true&width=500&lines=Desenvolvedor+Java;Entusiasta+de+Machine+Learning+&+Data+Science;Estudante+de+Ciência+da+Computação;" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&size=22&center=true&vCenter=true&width=500&lines=Desenvolvedor+Java;Entusiasta+de+Machine+Learning+&+Data+Science;Estudante+de+Ciência+da+Computação;" />
 </p>
 
 ---
 
 ### 🧠 Sobre mim
+
+<p align="right">
+  <img src="https://giffiles.alphacoders.com/610/61077.gif" width="200" alt="GIF do Joker" />
+</p>
 
 - 🎓 Estudante de Ciência da Computação  
 - 💻 Foco em desenvolvimento **Java**  
@@ -26,10 +27,10 @@
 
 <p align="left">
   <a href="mailto:gabrielsla2022@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Email-8116C4?style=flat-square&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Email-FF0000?style=flat-square&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/gabriel-ara%C3%BAjo-345131289" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-8116C4?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-FF0000?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
@@ -74,4 +75,4 @@
 
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#FF0000&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=footer"/>
