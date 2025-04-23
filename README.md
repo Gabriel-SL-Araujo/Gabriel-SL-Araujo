@@ -1,6 +1,5 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=FF0000&height=120&section=header"/>
 
-<!-- GIF ao lado direito dentro de 'Sobre mim' -->
 <h1 align="center">Yo 👋</h1>
 
 <p align="center">
@@ -11,15 +10,20 @@
 
 ### 🧠 Sobre mim
 
-<p align="right">
-  <img src="https://giffiles.alphacoders.com/610/61077.gif" width="200" alt="GIF do Joker" />
-</p>
-
-- 🎓 Estudante de Ciência da Computação  
-- 💻 Foco em desenvolvimento **Java**  
-- 📚 Estudando também: **Python, C, Java, SQL e Estruturas de Dados**  
-- 🧪 Explorando o mundo dos **testes automatizados** e boas práticas em software  
-- 🧪 Explorando o mundo de **Machine Learning** e Data Science  
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div>
+    <ul>
+      <li>🎓 Estudante de Ciência da Computação</li>
+      <li>💻 Foco em desenvolvimento <strong>Java</strong></li>
+      <li>📚 Estudando também: <strong>Python, C, Java, SQL e Estruturas de Dados</strong></li>
+      <li>🧪 Explorando o mundo dos <strong>testes automatizados</strong> e boas práticas em software</li>
+      <li>🧪 Explorando o mundo de <strong>Machine Learning</strong> e Data Science</li>
+    </ul>
+  </div>
+  <div>
+    <img src="https://giffiles.alphacoders.com/610/61077.gif" width="250" alt="GIF do Joker" />
+  </div>
+</div>
 
 ---
 
