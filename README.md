@@ -3,7 +3,7 @@
 <h1 align="center">Yo, Welcome! 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=2C3E50&size=22&center=true&vCenter=true&width=500&lines=Desenvolvedor+Java;Entusiasta+de+Machine+Learning;Estudante+de+Ciência+da+Computação;" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=2C3E50&size=22&center=true&vCenter=true&width=500&lines=Desenvolvedor+Python;Entusiasta+de+Machine+Learning;Estudante+de+Ciência+da+Computação;" />
 </p>
 
 <p align="center">
@@ -14,8 +14,8 @@
   <p style="flex: 1;">
     <ul>
       <li>🎓 Estudante de Ciência da Computação</li>
-      <li>💻 Foco em desenvolvimento <strong>Java</strong></li>
-      <li>📚 Estudando também: <strong>Python, C, Java, SQL e Estruturas de Dados</strong></li>
+      <li>💻 Foco em desenvolvimento <strong>Python</strong></li>
+      <li>📚 Estudando também: <strong>Python, C, Java e SQL</strong></li>
       <li>🧪 Explorando o mundo dos <strong>testes automatizados</strong> e boas práticas em software</li>
       <li>🧪 Explorando o mundo de <strong>Machine Learning</strong> e Data Science</li>
     </ul>
