@@ -70,7 +70,7 @@
 - 📘 Lendo o livro *Mãos à Obra: Aprendizado de Máquina* de Aurélion Géron  
 - 📘 Lendo o livro *Foundations of Software Testing ISTBQ Certificated* de Dorothy Graham  
 - 🧩 Aprimorando resolução de problemas com algoritmos e estruturas de dados  
-- 🤖 Estudando Machine Learning e IA  
+- 🤖 Estudando Machine Learning, Data Science e Testes de Software
 - 🧪 Explorando práticas de testes automatizados  
 
 ---
