@@ -67,11 +67,13 @@
 ### 🎯 Main Goals
 
 - 📘 Lendo o livro *Data Science do Zero* de Joel Grus  
-- 📘 Lendo o livro *Mãos à Obra: Aprendizado de Máquina* de Aurélion Géron  
-- 📘 Lendo o livro *Foundations of Software Testing ISTBQ Certificated* de Dorothy Graham  
+- 📘 Lendo o livro *Mãos à Obra: Aprendizado de Máquina* de Aurélion Géron
+- 📘 Lendo o livro *Artificial Intelligence* de Stuart Russell
+- 📘 Li o livro *Foundations of Software Testing ISTBQ Certificated* de Dorothy Graham ✅
+- 📘 Lendo o livro *Design Patterns* de Erich Gamma
 - 🧩 Aprimorando resolução de problemas com algoritmos e estruturas de dados  
-- 🤖 Estudando Machine Learning, Data Science e Testes de Software
-- 🧪 Explorando práticas de testes automatizados  
+- 🤖 Estudando Machine Learning, Data Science e Automation / Software Tests
+- 🧪 Explorando práticas de testes automatizados em Python  
 
 ---
 
